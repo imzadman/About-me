@@ -6,4 +6,4 @@
   Linkedin : https://www.linkedin.com/in/muhammad-zaid-599084317 ,
   Twitter : https://x.com/imzadman ,
   Instagram : https://www.instagram.com/imzadman ,
--  };
+- };
