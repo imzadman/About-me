@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Muhammad Zaid / @imzadman
 - 👀 I’m interested in internships related to Web Developement
-- 🌱 I’m currently learning Backend Web developement
-
 - 📫 How to reach me = {
   
    Linkedin : https://www.linkedin.com/in/muhammad-zaid-599084317 ,
